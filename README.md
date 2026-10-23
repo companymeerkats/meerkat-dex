@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Meerkat Dex Android App" width="100%">
+  <img src="Meerkat Dex Gaming Showcase(1).png" alt="Meerkat Dex Android App" width="100%">
 </p>
 # 🦦 Meerkat Dex
 
