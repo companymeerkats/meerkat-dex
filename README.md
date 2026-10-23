@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cover.png" alt="Meerkat Dex Android App" width="100%">
+</p>
 # 🦦 Meerkat Dex
 
 ### Discover Games. Explore Details. Choose Better.
